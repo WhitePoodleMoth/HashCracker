@@ -1,4 +1,4 @@
-## 📘 Sobre o projeto
+## 📘 About the project
 HashCracker is a brute force tool for decoding encoded hashes. Using this Python script, you can generate word combinations from predefined character sets and attempt to decode various types of hashes, including MD5, SHA1, SHA224, SHA256, SHA384, SHA512, BLAKE2B, and BLAKE2S.
 
 ## 🔧 System Construction
